@@ -1,0 +1,528 @@
+[
+    {
+      "life_path_number": 1,
+      "overview": "Người có số đường đời 1 là những người tiên phong, độc lập và có ý chí mạnh mẽ. Họ thích lãnh đạo, luôn tìm cách đổi mới và không ngại đối mặt với thử thách. Họ là những người có tầm nhìn xa và thường đặt ra những mục tiêu lớn lao. Tuy nhiên, họ cần học cách lắng nghe và hợp tác với người khác để tránh trở nên độc đoán.",
+      "strengths": [
+        {
+          "title": "Tư duy độc lập",
+          "description": "Họ có khả năng tự giải quyết vấn đề và không phụ thuộc vào người khác. Điều này giúp họ trở nên tự tin và có khả năng đưa ra quyết định nhanh chóng."
+        },
+        {
+          "title": "Sáng tạo và đổi mới",
+          "description": "Luôn tìm kiếm những phương pháp mới, không ngại thử nghiệm và chấp nhận rủi ro. Họ là những người tiên phong trong việc áp dụng công nghệ và ý tưởng mới."
+        },
+        {
+          "title": "Có động lực mạnh mẽ",
+          "description": "Không dễ dàng từ bỏ, luôn tìm cách vượt qua thử thách để đạt được mục tiêu. Họ có khả năng tự thúc đẩy bản thân và không ngừng phấn đấu."
+        },
+        {
+          "title": "Khả năng lãnh đạo bẩm sinh",
+          "description": "Có tố chất lãnh đạo, biết tổ chức và truyền cảm hứng cho người khác. Họ thường là người dẫn đầu trong các dự án và có khả năng quản lý nhóm hiệu quả."
+        }
+      ],
+      "weaknesses": [
+        {
+          "title": "Bướng bỉnh và bảo thủ",
+          "description": "Khó tiếp thu ý kiến từ người khác và ít khi thừa nhận sai lầm. Điều này có thể khiến họ gặp khó khăn trong việc hợp tác với đồng nghiệp hoặc bạn bè."
+        },
+        {
+          "title": "Dễ trở nên ích kỷ",
+          "description": "Thường đặt lợi ích cá nhân lên hàng đầu, có thể vô tình bỏ qua cảm xúc của người khác. Họ cần học cách cân bằng giữa bản thân và tập thể."
+        }
+      ],
+      "advice": [
+        {
+          "title": "Học cách lắng nghe",
+          "description": "Hãy dành thời gian để lắng nghe ý kiến của người khác, điều này sẽ giúp bạn trở nên cởi mở và nhận được sự hỗ trợ từ mọi người."
+        },
+        {
+          "title": "Phát triển kỹ năng hợp tác",
+          "description": "Hợp tác với người khác sẽ giúp bạn đạt được thành công lớn hơn. Hãy học cách chia sẻ và làm việc nhóm."
+        }
+      ],
+      "career_suggestions": [
+        "Doanh nhân",
+        "Lãnh đạo",
+        "Nhà sáng chế",
+        "Quản lý dự án"
+      ]
+    },
+    {
+      "life_path_number": 2,
+      "overview": "Người mang số đường đời 2 có xu hướng hòa nhã, nhạy cảm và giỏi hợp tác. Họ là những người bạn, đồng nghiệp và đối tác tuyệt vời nhờ khả năng lắng nghe và đồng cảm. Họ thường là người hòa giải trong các mâu thuẫn và có khả năng tạo ra sự hài hòa trong môi trường xung quanh.",
+      "strengths": [
+        {
+          "title": "Giỏi hợp tác",
+          "description": "Họ có khả năng làm việc nhóm xuất sắc và luôn biết cách dung hòa mọi người. Họ là những người biết lắng nghe và tôn trọng ý kiến của người khác."
+        },
+        {
+          "title": "Nhạy cảm và đồng cảm",
+          "description": "Thấu hiểu cảm xúc của người khác, dễ dàng tạo ra sự gắn kết. Họ có khả năng cảm nhận được nhu cầu và mong muốn của người khác."
+        },
+        {
+          "title": "Trung thực và đáng tin cậy",
+          "description": "Luôn giữ lời hứa và có thể trở thành người bạn trung thành. Họ là những người đáng tin cậy trong cả công việc và cuộc sống cá nhân."
+        }
+      ],
+      "weaknesses": [
+        {
+          "title": "Thiếu quyết đoán",
+          "description": "Họ dễ do dự khi phải đưa ra quyết định quan trọng. Điều này có thể khiến họ bỏ lỡ cơ hội hoặc gặp khó khăn trong việc đạt được mục tiêu."
+        },
+        {
+          "title": "Dễ bị tổn thương",
+          "description": "Nhạy cảm quá mức có thể khiến họ bị ảnh hưởng bởi lời nói của người khác. Họ cần học cách bảo vệ bản thân và không để cảm xúc chi phối quá nhiều."
+        }
+      ],
+      "advice": [
+        {
+          "title": "Rèn luyện sự quyết đoán",
+          "description": "Hãy tin tưởng vào bản thân và đưa ra quyết định dứt khoát hơn. Điều này sẽ giúp bạn tự tin và thành công hơn trong cuộc sống."
+        },
+        {
+          "title": "Bảo vệ cảm xúc của bản thân",
+          "description": "Hãy học cách đặt ranh giới và không để người khác ảnh hưởng quá nhiều đến cảm xúc của bạn."
+        }
+      ],
+      "career_suggestions": [
+        "Nhà tâm lý học",
+        "Nhà ngoại giao",
+        "Nhân viên tư vấn",
+        "Giáo viên"
+      ]
+    },
+    {
+      "life_path_number": 3,
+      "overview": "Số đường đời 3 là những người sáng tạo, có tài ăn nói và giàu cảm xúc. Họ thường mang đến niềm vui và sự lạc quan cho mọi người xung quanh. Họ có khả năng truyền cảm hứng và thường là người tạo ra những ý tưởng độc đáo.",
+      "strengths": [
+        {
+          "title": "Tài năng nghệ thuật",
+          "description": "Có năng khiếu về nghệ thuật, viết lách, âm nhạc hoặc diễn xuất. Họ thường có khả năng biểu đạt cảm xúc và ý tưởng một cách sáng tạo."
+        },
+        {
+          "title": "Giao tiếp xuất sắc",
+          "description": "Giỏi biểu đạt ý tưởng và truyền cảm hứng cho người khác. Họ có khả năng thuyết phục và tạo ra sự kết nối với mọi người."
+        },
+        {
+          "title": "Lạc quan và vui vẻ",
+          "description": "Mang lại năng lượng tích cực và giúp mọi người cảm thấy vui vẻ. Họ thường là người tạo ra bầu không khí thoải mái trong các nhóm."
+        }
+      ],
+      "weaknesses": [
+        {
+          "title": "Dễ mất tập trung",
+          "description": "Họ thường thiếu kiên trì và dễ bị cuốn vào nhiều thứ cùng một lúc. Điều này có thể khiến họ khó hoàn thành công việc một cách hiệu quả."
+        },
+        {
+          "title": "Cảm xúc thất thường",
+          "description": "Dễ bị ảnh hưởng bởi cảm xúc, có thể thay đổi tâm trạng nhanh chóng. Họ cần học cách kiểm soát cảm xúc để tránh ảnh hưởng đến công việc và các mối quan hệ."
+        }
+      ],
+      "advice": [
+        {
+          "title": "Rèn luyện sự tập trung",
+          "description": "Hãy đặt ra mục tiêu cụ thể và tập trung vào một việc tại một thời điểm. Điều này sẽ giúp bạn hoàn thành công việc một cách hiệu quả hơn."
+        },
+        {
+          "title": "Kiểm soát cảm xúc",
+          "description": "Hãy học cách nhận biết và kiểm soát cảm xúc của bản thân. Điều này sẽ giúp bạn duy trì sự ổn định trong cuộc sống."
+        }
+      ],
+      "career_suggestions": [
+        "Nghệ sĩ",
+        "Nhà văn",
+        "Diễn giả",
+        "Nhà thiết kế"
+      ]
+    },
+    {
+      "life_path_number": 4,
+      "overview": "Người có số đường đời 4 là những người thực tế, kiên trì và có trách nhiệm. Họ rất đáng tin cậy và có khả năng làm việc chăm chỉ để đạt được mục tiêu. Họ thường là người xây dựng nền tảng vững chắc cho các dự án và có khả năng tổ chức công việc một cách hiệu quả.",
+      "strengths": [
+        {
+          "title": "Làm việc chăm chỉ",
+          "description": "Họ kiên trì, không ngại khó khăn và luôn có trách nhiệm với công việc. Họ là những người đáng tin cậy và luôn hoàn thành nhiệm vụ được giao."
+        },
+        {
+          "title": "Tư duy logic",
+          "description": "Giỏi phân tích và tìm ra giải pháp thực tế cho vấn đề. Họ có khả năng nhìn nhận vấn đề một cách khách quan và đưa ra quyết định hợp lý."
+        }
+      ],
+      "weaknesses": [
+        {
+          "title": "Cứng nhắc",
+          "description": "Không thích thay đổi, đôi khi quá bám vào nguyên tắc. Điều này có thể khiến họ khó thích nghi với những tình huống mới hoặc thay đổi trong công việc."
+        }
+      ],
+      "advice": [
+        {
+          "title": "Học cách linh hoạt",
+          "description": "Hãy cởi mở hơn với những thay đổi và ý tưởng mới. Điều này sẽ giúp bạn thích nghi tốt hơn với môi trường luôn thay đổi."
+        },
+        {
+          "title": "Cân bằng giữa công việc và cuộc sống",
+          "description": "Hãy dành thời gian để thư giãn và tận hưởng cuộc sống. Điều này sẽ giúp bạn duy trì sự cân bằng và tránh bị kiệt sức."
+        }
+      ],
+      "career_suggestions": [
+        "Kỹ sư",
+        "Kiến trúc sư",
+        "Quản lý tài chính",
+        "Nhà tổ chức sự kiện"
+      ]
+    },
+    {
+      "life_path_number": 5,
+      "overview": "Số đường đời 5 đại diện cho sự tự do, phiêu lưu và khả năng thích nghi nhanh chóng. Họ là những người yêu thích sự mới mẻ và luôn tìm kiếm những trải nghiệm mới. Họ có khả năng thích nghi với mọi hoàn cảnh và thường là người dẫn đầu trong việc khám phá những điều chưa biết.",
+      "strengths": [
+        {
+          "title": "Thích khám phá",
+          "description": "Luôn tìm kiếm sự mới mẻ và không ngừng khám phá thế giới. Họ có khả năng thích nghi nhanh chóng với những thay đổi và luôn tìm kiếm cơ hội mới."
+        }
+      ],
+      "weaknesses": [
+        {
+          "title": "Dễ mất phương hướng",
+          "description": "Quá ham thích tự do có thể khiến họ thiếu ổn định. Họ cần học cách cân bằng giữa sự tự do và trách nhiệm."
+        }
+      ],
+      "advice": [
+        {
+          "title": "Tập trung vào mục tiêu dài hạn",
+          "description": "Hãy đặt ra những mục tiêu cụ thể và tập trung vào chúng. Điều này sẽ giúp bạn tránh bị phân tâm và đạt được thành công lớn hơn."
+        },
+        {
+          "title": "Học cách cam kết",
+          "description": "Hãy học cách cam kết với những quyết định và dự án của mình. Điều này sẽ giúp bạn xây dựng được sự ổn định và tin cậy."
+        }
+      ],
+      "career_suggestions": [
+        "Nhà báo",
+        "Nhà thám hiểm",
+        "Nhà tư vấn du lịch",
+        "Doanh nhân"
+      ]
+    },
+    {
+      "life_path_number": 6,
+      "overview": "Người có số đường đời 6 thường rất tình cảm, quan tâm đến gia đình và cộng đồng. Họ là những người có trách nhiệm và luôn mong muốn mang lại hạnh phúc cho người khác. Họ thường là người chăm sóc và hỗ trợ những người xung quanh.",
+      "strengths": [
+        {
+          "title": "Tận tâm",
+          "description": "Luôn quan tâm và chăm sóc người khác. Họ là những người có trách nhiệm và luôn sẵn sàng giúp đỡ người khác."
+        }
+      ],
+      "weaknesses": [
+        {
+          "title": "Dễ lo lắng",
+          "description": "Quá quan tâm đến người khác có thể khiến họ quên đi bản thân. Họ cần học cách cân bằng giữa việc chăm sóc người khác và chăm sóc bản thân."
+        }
+      ],
+      "advice": [
+        {
+          "title": "Chăm sóc bản thân",
+          "description": "Hãy dành thời gian để chăm sóc bản thân và tận hưởng cuộc sống. Điều này sẽ giúp bạn duy trì sự cân bằng và tránh bị kiệt sức."
+        },
+        {
+          "title": "Đặt ranh giới",
+          "description": "Hãy học cách đặt ranh giới và không để người khác lợi dụng lòng tốt của bạn."
+        }
+      ],
+      "career_suggestions": [
+        "Nhân viên xã hội",
+        "Giáo viên",
+        "Nhà tư vấn gia đình",
+        "Y tá"
+      ]
+    },
+    {
+      "life_path_number": 7,
+      "overview": "Người có số đường đời 7 thích tìm kiếm tri thức và có tư duy sâu sắc. Họ là những người có khả năng phân tích và suy nghĩ một cách thấu đáo. Họ thường tìm kiếm sự thật và có khả năng nhìn thấu bản chất của vấn đề.",
+      "strengths": [
+        {
+          "title": "Tư duy sâu sắc",
+          "description": "Có khả năng phân tích và suy nghĩ một cách thấu đáo. Họ thường là người tìm kiếm sự thật và có khả năng nhìn thấu bản chất của vấn đề."
+        }
+      ],
+      "weaknesses": [
+        {
+          "title": "Dễ cô lập bản thân",
+          "description": "Thích suy nghĩ một mình hơn là giao tiếp với người khác. Họ cần học cách mở lòng và chia sẻ với người khác."
+        }
+      ],
+      "advice": [
+        {
+          "title": "Mở lòng với người khác",
+          "description": "Hãy học cách chia sẻ suy nghĩ và cảm xúc của mình với người khác. Điều này sẽ giúp bạn xây dựng được những mối quan hệ sâu sắc hơn."
+        },
+        {
+          "title": "Cân bằng giữa suy nghĩ và hành động",
+          "description": "Hãy học cách đưa ra quyết định và hành động dựa trên những suy nghĩ của mình. Điều này sẽ giúp bạn đạt được mục tiêu một cách hiệu quả hơn."
+        }
+      ],
+      "career_suggestions": [
+        "Nhà nghiên cứu",
+        "Nhà triết học",
+        "Nhà khoa học",
+        "Nhà tâm lý học"
+      ]
+    },
+    {
+      "life_path_number": 8,
+      "overview": "Người có số đường đời 8 có tư duy kinh doanh, mạnh mẽ và có khả năng lãnh đạo. Họ là những người có khả năng quản lý tài chính và thường đạt được thành công trong lĩnh vực kinh doanh. Họ có khả năng nhìn thấy cơ hội và biến chúng thành hiện thực.",
+      "strengths": [
+        {
+          "title": "Quyết đoán",
+          "description": "Dám đưa ra quyết định và chịu trách nhiệm về hành động của mình. Họ có khả năng đưa ra quyết định nhanh chóng và hiệu quả."
+        }
+      ],
+      "weaknesses": [
+        {
+          "title": "Dễ bị cuốn vào vật chất",
+          "description": "Có thể tập trung quá nhiều vào tiền bạc và thành công. Họ cần học cách cân bằng giữa vật chất và tinh thần."
+        }
+      ],
+      "advice": [
+        {
+          "title": "Cân bằng giữa vật chất và tinh thần",
+          "description": "Hãy dành thời gian để phát triển bản thân và tận hưởng cuộc sống. Điều này sẽ giúp bạn duy trì sự cân bằng và hạnh phúc."
+        },
+        {
+          "title": "Chia sẻ thành công",
+          "description": "Hãy học cách chia sẻ thành công và giúp đỡ người khác. Điều này sẽ giúp bạn xây dựng được những mối quan hệ tốt đẹp hơn."
+        }
+      ],
+      "career_suggestions": [
+        "Doanh nhân",
+        "Nhà đầu tư",
+        "Quản lý tài chính",
+        "Giám đốc điều hành"
+      ]
+    },
+    {
+      "life_path_number": 9,
+      "overview": "Người có số đường đời 9 có lòng vị tha, bao dung và luôn mong muốn giúp đỡ người khác. Họ là những người có trái tim nhân hậu và luôn mong muốn mang lại hạnh phúc cho người khác. Họ thường là người dẫn đầu trong các hoạt động từ thiện và cộng đồng.",
+      "strengths": [
+        {
+          "title": "Nhân ái",
+          "description": "Luôn giúp đỡ và quan tâm đến cộng đồng. Họ là những người có trái tim nhân hậu và luôn mong muốn mang lại hạnh phúc cho người khác."
+        }
+      ],
+      "weaknesses": [
+        {
+          "title": "Dễ bị lợi dụng",
+          "description": "Lòng tốt của họ có thể khiến họ trở thành mục tiêu của kẻ xấu. Họ cần học cách đặt ranh giới và bảo vệ bản thân."
+        }
+      ],
+      "advice": [
+        {
+          "title": "Bảo vệ bản thân",
+          "description": "Hãy học cách đặt ranh giới và không để người khác lợi dụng lòng tốt của bạn."
+        },
+        {
+          "title": "Tìm kiếm sự cân bằng",
+          "description": "Hãy dành thời gian để chăm sóc bản thân và tận hưởng cuộc sống. Điều này sẽ giúp bạn duy trì sự cân bằng và hạnh phúc."
+        }
+      ],
+      "career_suggestions": [
+        "Nhân viên xã hội",
+        "Nhà từ thiện",
+        "Nhà tư vấn tâm lý",
+        "Giáo viên"
+      ]
+    },
+    {
+        "life_path_number": 11,
+        "overview": "Số đường đời 11 là một con số đặc biệt, được coi là 'Số chủ đạo của sự giác ngộ'. Những người mang số này có khả năng tâm linh mạnh mẽ, trực giác nhạy bén và khả năng truyền cảm hứng cho người khác. Họ thường là những người có tầm nhìn xa và khả năng kết nối với thế giới tâm linh.",
+        "strengths": [
+          {
+            "title": "Trực giác nhạy bén",
+            "description": "Có khả năng cảm nhận và nhìn thấu những điều mà người khác không thể. Họ thường có những giấc mơ tiên tri hoặc cảm giác mạnh mẽ về tương lai."
+          },
+          {
+            "title": "Truyền cảm hứng",
+            "description": "Có khả năng truyền cảm hứng và động lực cho người khác thông qua lời nói và hành động. Họ thường là người dẫn dắt tinh thần cho những người xung quanh."
+          },
+          {
+            "title": "Tâm linh sâu sắc",
+            "description": "Có khả năng kết nối với thế giới tâm linh và hiểu được những thông điệp từ vũ trụ. Họ thường tìm kiếm ý nghĩa sâu xa của cuộc sống."
+          }
+        ],
+        "weaknesses": [
+          {
+            "title": "Dễ bị áp lực",
+            "description": "Vì mang trong mình trách nhiệm lớn lao, họ dễ bị căng thẳng và áp lực tinh thần. Họ cần học cách thư giãn và không đặt quá nhiều kỳ vọng vào bản thân."
+          },
+          {
+            "title": "Nhạy cảm quá mức",
+            "description": "Dễ bị ảnh hưởng bởi năng lượng tiêu cực xung quanh. Họ cần học cách bảo vệ bản thân khỏi những ảnh hưởng không tốt."
+          }
+        ],
+        "advice": [
+          {
+            "title": "Rèn luyện tâm linh",
+            "description": "Hãy dành thời gian để thiền định và kết nối với năng lượng tích cực. Điều này sẽ giúp bạn cân bằng cảm xúc và tinh thần."
+          },
+          {
+            "title": "Chia sẻ trách nhiệm",
+            "description": "Đừng ôm đồm mọi thứ một mình. Hãy học cách chia sẻ trách nhiệm và nhận sự hỗ trợ từ người khác."
+          }
+        ],
+        "career_suggestions": [
+          "Nhà tâm linh",
+          "Nhà tư vấn tâm lý",
+          "Nghệ sĩ",
+          "Nhà văn"
+        ]
+      },
+      {
+        "life_path_number": 22,
+        "overview": "Số đường đời 22 được gọi là 'Số chủ đạo của người xây dựng'. Những người mang số này có khả năng biến những ý tưởng lớn thành hiện thực. Họ là những người có tầm nhìn vĩ mô và khả năng tổ chức xuất sắc.",
+        "strengths": [
+          {
+            "title": "Khả năng xây dựng",
+            "description": "Có khả năng biến những ý tưởng lớn thành hiện thực. Họ thường là người tạo ra những dự án có tầm ảnh hưởng lớn."
+          },
+          {
+            "title": "Tư duy chiến lược",
+            "description": "Có khả năng nhìn xa trông rộng và lập kế hoạch dài hạn. Họ thường là người dẫn dắt trong các dự án quy mô lớn."
+          },
+          {
+            "title": "Lòng nhân ái",
+            "description": "Luôn mong muốn mang lại lợi ích cho cộng đồng. Họ thường là người đứng đầu các tổ chức từ thiện hoặc dự án xã hội."
+          }
+        ],
+        "weaknesses": [
+          {
+            "title": "Dễ bị quá tải",
+            "description": "Vì đảm nhận quá nhiều trách nhiệm, họ dễ bị kiệt sức. Họ cần học cách phân chia công việc và nghỉ ngơi hợp lý."
+          },
+          {
+            "title": "Khó thỏa hiệp",
+            "description": "Đôi khi quá cứng nhắc trong việc thực hiện kế hoạch. Họ cần học cách linh hoạt và chấp nhận ý kiến của người khác."
+          }
+        ],
+        "advice": [
+          {
+            "title": "Quản lý thời gian",
+            "description": "Hãy lập kế hoạch cụ thể và dành thời gian nghỉ ngơi. Điều này sẽ giúp bạn tránh bị quá tải."
+          },
+          {
+            "title": "Hợp tác với người khác",
+            "description": "Hãy học cách lắng nghe và hợp tác với người khác. Điều này sẽ giúp bạn đạt được mục tiêu một cách hiệu quả hơn."
+          }
+        ],
+        "career_suggestions": [
+          "Kiến trúc sư",
+          "Nhà quản lý dự án",
+          "Doanh nhân xã hội",
+          "Nhà lãnh đạo"
+        ]
+      },
+      {
+        "life_path_number": 33,
+        "overview": "Số đường đời 33 được coi là 'Số chủ đạo của người thầy tâm linh'. Những người mang số này có khả năng chữa lành và truyền cảm hứng cho người khác. Họ thường là người mang lại sự bình an và hạnh phúc cho những người xung quanh.",
+        "strengths": [
+          {
+            "title": "Khả năng chữa lành",
+            "description": "Có khả năng chữa lành cả về thể chất lẫn tinh thần cho người khác. Họ thường là người được tìm đến khi người khác cần sự giúp đỡ."
+          },
+          {
+            "title": "Truyền cảm hứng",
+            "description": "Có khả năng truyền cảm hứng và động lực cho người khác. Họ thường là người dẫn dắt tinh thần cho cộng đồng."
+          },
+          {
+            "title": "Lòng nhân ái",
+            "description": "Luôn mong muốn mang lại hạnh phúc và sự bình an cho người khác. Họ thường là người đứng đầu các hoạt động từ thiện."
+          }
+        ],
+        "weaknesses": [
+          {
+            "title": "Dễ bị tổn thương",
+            "description": "Vì quá nhạy cảm, họ dễ bị ảnh hưởng bởi năng lượng tiêu cực. Họ cần học cách bảo vệ bản thân."
+          },
+          {
+            "title": "Quá lý tưởng hóa",
+            "description": "Đôi khi quá tập trung vào việc giúp đỡ người khác mà quên đi nhu cầu của bản thân. Họ cần học cách cân bằng."
+          }
+        ],
+        "advice": [
+          {
+            "title": "Bảo vệ năng lượng",
+            "description": "Hãy học cách thiền định và bảo vệ năng lượng của bản thân. Điều này sẽ giúp bạn tránh bị ảnh hưởng bởi năng lượng tiêu cực."
+          },
+          {
+            "title": "Chăm sóc bản thân",
+            "description": "Hãy dành thời gian để chăm sóc bản thân và tận hưởng cuộc sống. Điều này sẽ giúp bạn duy trì sự cân bằng."
+          }
+        ],
+        "career_suggestions": [
+          "Nhà tâm linh",
+          "Nhà tư vấn tâm lý",
+          "Nhà từ thiện",
+          "Giáo viên"
+        ]
+      },
+      {
+        "life_path_number": 10,
+        "overview": "Số đường đời 10 là sự kết hợp giữa năng lượng của số 1 (lãnh đạo) và số 0 (vô hạn). Những người mang số này có khả năng tạo ra sự khởi đầu mới và không ngừng phát triển.",
+        "strengths": [
+          {
+            "title": "Khả năng lãnh đạo",
+            "description": "Có tố chất lãnh đạo và khả năng dẫn dắt người khác."
+          },
+          {
+            "title": "Sáng tạo",
+            "description": "Luôn tìm kiếm những ý tưởng mới và không ngừng đổi mới."
+          }
+        ],
+        "weaknesses": [
+          {
+            "title": "Thiếu kiên nhẫn",
+            "description": "Dễ nản lòng khi gặp khó khăn."
+          }
+        ],
+        "advice": [
+          {
+            "title": "Rèn luyện sự kiên nhẫn",
+            "description": "Hãy học cách kiên nhẫn và không bỏ cuộc khi gặp thử thách."
+          }
+        ],
+        "career_suggestions": [
+          "Doanh nhân",
+          "Nhà lãnh đạo",
+          "Nhà sáng chế"
+        ]
+      },
+      {
+        "life_path_number": 12,
+        "overview": "Số đường đời 12 là sự kết hợp giữa năng lượng của số 1 (lãnh đạo) và số 2 (hợp tác). Những người mang số này có khả năng lãnh đạo và làm việc nhóm hiệu quả.",
+        "strengths": [
+          {
+            "title": "Khả năng hợp tác",
+            "description": "Có khả năng làm việc nhóm và dung hòa mọi người."
+          },
+          {
+            "title": "Tư duy chiến lược",
+            "description": "Có khả năng lập kế hoạch và thực hiện mục tiêu."
+          }
+        ],
+        "weaknesses": [
+          {
+            "title": "Dễ bị phân tâm",
+            "description": "Khó tập trung vào một mục tiêu duy nhất."
+          }
+        ],
+        "advice": [
+          {
+            "title": "Tập trung vào mục tiêu",
+            "description": "Hãy đặt ra mục tiêu cụ thể và tập trung vào chúng."
+          }
+        ],
+        "career_suggestions": [
+          "Quản lý dự án",
+          "Nhà ngoại giao",
+          "Nhà tổ chức sự kiện"
+        ]
+      }
+  ]
