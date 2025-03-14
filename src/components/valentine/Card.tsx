@@ -260,7 +260,7 @@ const ValentineCard: React.FC<ValentineCardProps> = ({
                       "/rose3.png",
                       "/rose4.png",
                     ]; // Danh sách ảnh
-                    const numRoses = 50; // Số bông hoa xuất hiện mỗi lần click
+                    const numRoses = 100; // Số bông hoa xuất hiện mỗi lần click
 
                     for (let i = 0; i < numRoses; i++) {
                       const rose = document.createElement("img");
