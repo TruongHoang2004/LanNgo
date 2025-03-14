@@ -259,43 +259,49 @@ const ValentineCard: React.FC<ValentineCardProps> = ({
                       "/rose2.png",
                       "/rose3.png",
                       "/rose4.png",
-                    ]; // Danh sách ảnh
-                    const numRoses = 100; // Số bông hoa xuất hiện mỗi lần click
+                    ];
+                    const numRoses = 500;
+                    const batchSize = 5; // Số bông hoa mỗi nhóm
+                    const delay = 200; // Độ trễ giữa mỗi nhóm (200ms)
 
-                    for (let i = 0; i < numRoses; i++) {
-                      const rose = document.createElement("img");
-                      rose.src =
-                        roseImages[
-                          Math.floor(Math.random() * roseImages.length)
-                        ]; // Chọn ảnh ngẫu nhiên
-                      rose.style.position = "absolute";
-                      rose.style.width = `${Math.random() * 40 + 30}px`; // Kích thước ngẫu nhiên
-                      rose.style.left = `${
-                        Math.random() * window.innerWidth
-                      }px`;
-                      rose.style.top = `${
-                        Math.random() * window.innerHeight
-                      }px`;
-                      rose.style.opacity = "0";
-                      rose.style.transition =
-                        "opacity 1s ease-in-out, transform 1s ease-in-out";
-                      rose.style.pointerEvents = "none";
-
-                      document.body.appendChild(rose);
-
-                      requestAnimationFrame(() => {
-                        rose.style.opacity = "1";
-                        rose.style.transform = `scale(${
-                          Math.random() * 1.5 + 0.5
-                        })`;
-                      });
-
+                    for (let batch = 0; batch < numRoses / batchSize; batch++) {
                       setTimeout(() => {
-                        rose.style.opacity = "0";
-                        setTimeout(() => {
-                          document.body.removeChild(rose);
-                        }, 1000);
-                      }, 2000);
+                        for (let i = 0; i < batchSize; i++) {
+                          const rose = document.createElement("img");
+                          rose.src =
+                            roseImages[
+                              Math.floor(Math.random() * roseImages.length)
+                            ];
+                          rose.style.position = "absolute";
+                          rose.style.width = `${Math.random() * 40 + 30}px`;
+                          rose.style.left = `${
+                            Math.random() * window.innerWidth
+                          }px`;
+                          rose.style.top = `${
+                            Math.random() * window.innerHeight
+                          }px`;
+                          rose.style.opacity = "0";
+                          rose.style.transition =
+                            "opacity 1s ease-in-out, transform 1s ease-in-out";
+                          rose.style.pointerEvents = "none";
+
+                          document.body.appendChild(rose);
+
+                          requestAnimationFrame(() => {
+                            rose.style.opacity = "1";
+                            rose.style.transform = `scale(${
+                              Math.random() * 1.5 + 0.5
+                            })`;
+                          });
+
+                          setTimeout(() => {
+                            rose.style.opacity = "0";
+                            setTimeout(() => {
+                              document.body.removeChild(rose);
+                            }, 1000);
+                          }, 2000);
+                        }
+                      }, batch * delay);
                     }
                   }}
                 >
